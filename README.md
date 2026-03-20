@@ -1,1 +1,2 @@
-# -Golang
+# GolangGame
+Game on go language
